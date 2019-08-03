@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+    </head>
+    <style>
+      h2,p {
+          color: rgb(0, 0, 0);
+      }
+      
+      #main-heading {
+          color:rgb(99, 89, 99);
+      }
+      
+      .place-names {
+          color:rgb(92, 82, 133);
+      }
+      
+      .place-description {
+          color:rgb(64, 63, 54);
+      }
+        
+        
+    </style>
+    <body>
+    <h6>Sources: Google, Wikipedia, www.swedishnomad.com</h6>
+        <h1 id="main-heading">Travel to Turkey</h1>
+        
+        <p>Turkey is a nation straddling eastern Europe and western Asia with cultural connections to ancient Greek, Persian, Roman, Byzantine and Ottoman empires. Cosmopolitan Istanbul, on the Bosphorus Strait, is home to the iconic Hagia Sophia, with its soaring dome and Christian mosaics, the massive 17th-century Blue Mosque and the circa-1460 Topkapı Palace, former home of sultans. Ankara is Turkey’s modern capital.<p>
+        
+        <h3>Did you know...</h3>
+        
+        <ul>
+            <li> TURKEY HAS THE HIGHEST CONSUMPTION OF TEA PER CAPITA</li>
+            <li>HALF OF THE COUNTRY’S POPULATION IS UNDER 30</li>
+            <li>TURKEY IS HOME TO THE KEBAB</li>
+        </ul>
+        
+        <h2>Best </h2>
+        <h2>Places to visit</h2>
+        
+        
+            
+            <h3 class="place-names">1.Hagia Sophia</h3>
+            
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hagia_Sophia_2017.jpg/1280px-Hagia_Sophia_2017.jpg" alt="Hagia sophia" width="450px">
+            
+            <p class="place-description">Hagia Sophia is the former Greek Orthodox Christian patriarchal cathedral, later an Ottoman imperial mosque and now a museum in Istanbul, Turkey. Built in AD 537 at the beginning of the Middle Ages, it was famous in particular for its massive dome</p>
+            
+            <h3 class="place-names">2.The Blue Mosque</h3>
+            
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_Mosque_2017.jpg/1280px-Blue_Mosque_2017.jpg" alt="Blue Mosque" width="450px">
+            
+            <p class="place-description">The Sultan Ahmed Mosque is a historic mosque located in Istanbul, Turkey. A popular tourist site, the Sultan Ahmed Mosque continues to function as a mosque today. The Blue Mosque, as it is popularly known, was constructed between 1609 and 1616 during the rule of Ahmed I.</p>
+            
+            <h3  class="place-names">3.Pamukkale</h3>
+            
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pamukkale_56.jpg/1280px-Pamukkale_56.jpg" alt="Paukkale" width="450px">
+            
+            <p class="place-description">Pamukkale is a town in western Turkey known for the mineral-rich thermal waters flowing down white travertine terraces on a nearby hillside. It neighbors Hierapolis, an ancient Roman spa city founded around 190 B.C. Ruins there include a well-preserved theater and a necropolis with sarcophagi that stretch for 2km. The Antique Pool is famous for its submerged Roman columns, the result of an earthquake.</p>
+            
+            <h2>Best foods in Turkey</h2>
+        
+        <ol>
+            <li>İskender Kebab</li>
+            <li>Manti (Turkish Ravioli)</li>
+            <li>Baklava</li>
+        </ol>
+        
+    </body>
+</html>
